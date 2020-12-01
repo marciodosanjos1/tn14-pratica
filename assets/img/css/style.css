@@ -1,0 +1,45 @@
+/*RESET*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+    scroll-behavior: smooth; 
+}
+
+body {
+    background-color: royalblue;
+}
+
+main {
+    background-color: salmon;
+    padding: 50px;
+    width: 800px;
+    margin: 30px;
+}
+
+a {
+    color: inherit;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: yellowgreen;
+} 
+
+ul,
+ol {
+    list-style: none;
+}
+
+
+/*
+* {
+
+     border: 1px dotted red;
+} 
+    background-color: rgba(255, 0, 0, 0.05); */
+
+    
