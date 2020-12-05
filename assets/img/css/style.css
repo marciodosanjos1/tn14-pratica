@@ -1,0 +1,76 @@
+/*RESET*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;  
+    scroll-behavior: smooth; 
+}
+
+}
+
+
+}
+
+a {
+    color: inherit;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a:hover {
+
+    color: black;
+} 
+
+ul,
+ol {
+    list-style: none;
+}
+
+[class*="-item"]
+ {
+    background-color: rgba(181, 194, 248, .20);
+    border-radius: 32px;
+    margin-bottom: 16px;
+    padding: 24px;
+}
+
+
+.ano {
+    color: #888;
+    display: block;
+    font-style: italic  ;
+}
+
+#meuFooter {
+    background-color: turquoise;
+    text-transform: unset;
+}
+
+[class*="-item"]:last-child {
+    background-color: rgba(49, 187, 91, 0.2);
+}
+
+
+
+[class*="-item"]:first-of-type  {
+    background-color: rgba(187, 58, 129, 0.2);
+
+}
+
+[class*="-item"]:nth-child(odd)  {
+  background-color: rgba(64, 131, 68, 0.13);
+
+}
+
+
+
+/*
+* {
+
+     border: 1px dotted red;
+} 
+    background-color: rgba(255, 0, 0, 0.05); */
+
+    
